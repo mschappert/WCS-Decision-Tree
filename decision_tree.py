@@ -2,7 +2,7 @@
 # Desciption: This decision tree is for WCS which includes both marine and terrestrial data
 # Purpose: WCS will use this for its workers to help categorize, identify, and select data for the organization's projects
 # Date Created: 02/14/2024
-# Authors: Mikayla Schappert, Naoya Morishita, Claudia, Apple
+# Authors: Mikayla Schappert, Naoya Morishita, Claudia Buszta, Apple
 
 # make sure to run python 3.10
 # pip install -U wxPython
@@ -87,3 +87,7 @@ if __name__ == '__main__':
 #        style=0, 
 #        validator=DefaultValidator,
 #        name=SearchCtrlNameStr)
+# Date: 02/14/2024
+# Authors: Mikayla Schappert, Naoya Morishita, Claudia Buszta
+
+# Say something
